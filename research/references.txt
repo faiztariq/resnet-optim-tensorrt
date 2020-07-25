@@ -1,0 +1,2 @@
+https://github.com/daquexian/onnx-simplifier
+https://forums.fast.ai/t/calculating-the-accuracy-for-test-set/39360
