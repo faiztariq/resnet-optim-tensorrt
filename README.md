@@ -14,7 +14,7 @@ Training a ResNet50 model on CIFAR10, optimizing the pytorch model (converting t
 * Mount the Drive on to Colab.
 * Run the cells. (and update the paths wherever required)
 
-# B. Converting the model from .pth to .onn
+# B. Converting the model from .pth to .onnx
 
 * Run the script. (./scripts/model_opt.py)
 * Save it in your Drive for running inference.
